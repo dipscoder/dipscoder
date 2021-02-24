@@ -3,12 +3,12 @@
 
 ### About Me 🚀
 - 🎓 I’m an Open-Source enthusiast & pursuing my Bachelors in Computer Science & Engineering. 
-- 👨‍💻 I am passionate about Blockchain, Web Dev, Machine Learning, DevOps & I enjoy learning new things. 
+- 💻 I am passionate about Blockchain, Web Dev, Machine Learning, DevOps & I enjoy learning new things. 
 - 🔭 I’m currently working on a Machine Learning Project
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Developers and Leaders
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Cycling 🚴🏻‍♂ and Space stuff 🌌
+- ⚡ Fun fact: I love Cycling 🚴 and Space stuff 🌌
 
 - 📫 How to reach me:
 
@@ -22,5 +22,6 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+</br></br>
 
 ![Dipesh's github stats](https://github-readme-stats.vercel.app/api?username=dipscoder&show_icons=true&hide_border=true)
