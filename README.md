@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with Developers and Leaders
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love Cycling 🚴🏻‍♂ and Space stuff 🌌
+
 - 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/dipesh-jaiswal-7b45261a6/">
@@ -20,6 +22,5 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-- ⚡ Fun fact: I love Cycling 🚴🏻‍♂ and Space stuff 🌌
 
 ![Dipesh's github stats](https://github-readme-stats.vercel.app/api?username=dipscoder&show_icons=true&hide_border=true)
