@@ -12,7 +12,7 @@
 
 - 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/dipesh-jaiswal-7b45261a6/">
+<a href="https://www.linkedin.com/in/dipesh-jaiswal/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/dips_jaiswal">
