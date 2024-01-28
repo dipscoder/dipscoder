@@ -4,7 +4,7 @@ Hi 👋 My name is Dipesh Jaiswal
 A Mindful Developer
 -------------------
 
-As a passionate software developer with over 2+ years of experience in web-based solutions, I have a track record of successfully leading projects that have helped businesses achieve their innovative ideas and achieve tangible results. I am dedicated to producing excellent outcomes that go above and beyond, whether working on a project by myself or with a team.
+As a passionate software developer with over 2+ years of experience in web-based solutions, I have a track record of successfully leading projects that have helped businesses achieve their innovative ideas and tangible results. I am dedicated to producing excellent outcomes that go above and beyond, whether working on a project by myself or with a team.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [dipeshjaiswal.com](http://dipeshjaiswal.com)
